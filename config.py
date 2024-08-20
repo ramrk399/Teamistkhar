@@ -45,8 +45,8 @@ GIT_TOKEN = getenv(
 
 FAILED = "https://te.legra.ph/file/4c896584b592593c00aa8.jpg"
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PURVI_SUPPORT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+G9vzWLe1xnQyOTNl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Jani_Group")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Jani_Group")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
