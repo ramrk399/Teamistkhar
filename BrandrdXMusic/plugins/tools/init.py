@@ -1,9 +1,9 @@
 import asyncio
 import datetime
 from pyrogram import Client
-from VIPMUSIC.utils.database import get_assistant
+from BrandrdXMusic.utils.database import get_assistant
 import config
-from VIPMUSIC import app
+from BrandrdXMusic import app
 
 AUTO = True
 
