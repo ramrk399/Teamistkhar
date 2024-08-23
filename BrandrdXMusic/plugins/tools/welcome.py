@@ -135,7 +135,7 @@ async def greet_group(_, member: ChatMemberUpdated):
 ┣ 𝟓 ➥ 𝐆ɪᴠᴇ  ʀᴇsᴘᴇᴄᴛ , ᴛᴀᴋᴇ  ʀᴇsᴘᴇᴄᴛ 
 ┗━━━━━━━━━━━━━━━━━      
 
-❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ 𝐏ᴜʀᴠɪ ✘ 𝐌ᴜꜱɪᴄ
+❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ 𝙹𝚊𝚗𝚒 ✘ 𝐌ᴜꜱɪᴄ
 """,
             reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"https://t.me/purvi_music_bot?startgroup=true")]])
         )
